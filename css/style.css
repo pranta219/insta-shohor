@@ -237,6 +237,21 @@ img {
   margin: 10px 0;
   color: gray;
 }
+h2{
+  font-weight: bold;
+}
+.text{
+  text-align: center;
+  padding: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20%;
+  margin-right: 20%;
+  line-break: auto;
+}
+.span{
+  font-weight: bold;
+}
 
 #liked{
   display: none;
